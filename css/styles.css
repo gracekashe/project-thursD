@@ -1,3 +1,23 @@
-. intro {
+.intro {
   font-style: italic;
+}
+
+.author {
+  color: red;
+}
+
+p.author {
+  font-size: 12px;
+}
+
+.vero {
+  background-color: cyan;
+}
+
+p {
+  font-style: oblique;
+}
+
+p.vero {
+  font-style: normal;
 }
